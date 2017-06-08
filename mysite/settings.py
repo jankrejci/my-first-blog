@@ -25,7 +25,7 @@ SECRET_KEY = 'oondre-=(a2m5q!izhof-*x-&j@&put5e)opwd%qj2l@^j8%(&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['jankrejci.pythonanywhere.com]
+ALLOWED_HOSTS = ['jankrejci.pythonanywhere.com']
 
 
 # Application definition
